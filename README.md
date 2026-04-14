@@ -107,7 +107,6 @@ The repository includes core functionality only. For testing:
 ## Demo
 
 ![Demo Image](assets/Demo-1.PNG)
-![Demo Image](assets/Demo-2.PNG)
 ![Demo Image](assets/Demo-3.PNG)
 
 ## Configuration
