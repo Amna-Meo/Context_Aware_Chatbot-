@@ -104,6 +104,9 @@ The repository includes core functionality only. For testing:
 - Test the application by running `streamlit run app.py`
 - Manually test with various queries to validate retrieval and generation
 
+## Demo
+
+![Demo Image](assets/Demo-1.png)
 ## Configuration
 
 ### Retrieval Settings
