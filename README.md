@@ -106,7 +106,7 @@ The repository includes core functionality only. For testing:
 
 ## Demo
 
-![Demo Image](assets/Demo-1.png)
+![Demo Image](assets/Demo-1.PNG)
 ## Configuration
 
 ### Retrieval Settings
